@@ -1,0 +1,17 @@
+Fuente: --> http://www.mkyong.com/tutorials/jax-ws-tutorials/  , http://docs.oracle.com/javaee/7/tutorial/doc/jaxws.htm
+Existen 2 tipos de Bindings RPC y Document styles, document es el por defecto.
+mvn exec:java -Dexec.mainClass="org.ws.cliente.HelloWorldClient"
+wsimport -keep http://localhost:9999/ws/hello?wsdl
+mvn exec:java -Dexec.mainClass="org.ws.cliente.HelloWorldClientWsImport"
+
+SOAP handler is a SOAP message interceptor, which is able to intercept incoming or outgoing SOAP message and manipulate its values.
+
+mvn exec:java -Dexec.mainClass="org.ws2.documentstyle.HelloWorldPublisher"
+
+mvn exec:java -Dexec.mainClass="org.ws2.documentstyle.cliente.HelloWorldClient"
+mvn exec:java -Dexec.mainClass="org.MTOM.ws.ImagePublisher"
+mvn exec:java -Dexec.mainClass="org.MTOM.ws.cliente.ImageClient"
+
+
+mvn exec:java -Dexec.mainClass="org.SoapHandler.inserver.endpoint.WsPublisher"
+

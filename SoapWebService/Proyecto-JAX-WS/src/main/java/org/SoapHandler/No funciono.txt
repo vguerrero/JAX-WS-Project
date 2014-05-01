@@ -1,0 +1,3 @@
+por que es que el cliente y el server deben de estar en proyectos diferentes
+en este caso hay conflictos de namespaces por la anterior razon
+"two clases have the same xml type name"

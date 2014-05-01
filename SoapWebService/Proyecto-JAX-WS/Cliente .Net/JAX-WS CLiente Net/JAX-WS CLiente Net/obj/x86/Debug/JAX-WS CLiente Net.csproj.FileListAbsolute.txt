@@ -1,0 +1,8 @@
+E:\TestMavenProjects\Proyecto JAX-WS\Cliente .Net\JAX-WS CLiente Net\JAX-WS CLiente Net\bin\Debug\JAX-WS CLiente Net.exe.config
+E:\TestMavenProjects\Proyecto JAX-WS\Cliente .Net\JAX-WS CLiente Net\JAX-WS CLiente Net\bin\Debug\JAX-WS CLiente Net.exe
+E:\TestMavenProjects\Proyecto JAX-WS\Cliente .Net\JAX-WS CLiente Net\JAX-WS CLiente Net\bin\Debug\JAX-WS CLiente Net.pdb
+E:\TestMavenProjects\Proyecto JAX-WS\Cliente .Net\JAX-WS CLiente Net\JAX-WS CLiente Net\obj\x86\Debug\JAX_WS_CLiente_Net.Form1.resources
+E:\TestMavenProjects\Proyecto JAX-WS\Cliente .Net\JAX-WS CLiente Net\JAX-WS CLiente Net\obj\x86\Debug\JAX_WS_CLiente_Net.Properties.Resources.resources
+E:\TestMavenProjects\Proyecto JAX-WS\Cliente .Net\JAX-WS CLiente Net\JAX-WS CLiente Net\obj\x86\Debug\JAX-WS CLiente Net.csproj.GenerateResource.Cache
+E:\TestMavenProjects\Proyecto JAX-WS\Cliente .Net\JAX-WS CLiente Net\JAX-WS CLiente Net\obj\x86\Debug\JAX-WS CLiente Net.exe
+E:\TestMavenProjects\Proyecto JAX-WS\Cliente .Net\JAX-WS CLiente Net\JAX-WS CLiente Net\obj\x86\Debug\JAX-WS CLiente Net.pdb
