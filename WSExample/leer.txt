@@ -1,0 +1,2 @@
+sacado de
+http://java.globinch.com/enterprise-java/web-services/jax-ws/java-jax-ws-tutorial-develop-web-services-clients-consumers/
